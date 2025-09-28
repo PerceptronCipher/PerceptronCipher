@@ -49,8 +49,9 @@
 
 ## 📌 Featured Projects  
 <p align="center">
-  <a href="https://github.com/PerceptronCipher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PerceptronCipher&repo=RepoName1&theme=tokyonight" /></a>
-  <a href="https://github.com/PerceptronCipher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PerceptronCipher&repo=RepoName2&theme=tokyonight" /></a>
+  <a href="https://github.com/PerceptronCipher/loan-prediction-models">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerceptronCipher&repo=loan-prediction-models&theme=tokyonight" />
+  </a>
 </p>
 
 ---
