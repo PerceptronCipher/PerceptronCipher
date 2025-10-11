@@ -1,67 +1,79 @@
-<h1 align="center">Hi there, I'm Adeyemi ⚡ | The DataCypher</h1>
-<h3 align="center">AI • ML Engineer | Data Science & Analytics | Solution Architect</h3>
-<p align="center">I design data-powered intelligence — transforming ideas into systems that think, predict, and solve. 🚀</p>
+<h1 align="center">Hi, I'm Boluwatife Adeyemi ⚡ | The DataCypher</h1>
+<h3 align="center">AI • ML Engineer | Data Science & Analytics | Problem-Solver</h3>
+<p align="center">I build intelligent systems that turn data into business power 🚀</p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m an **AI & Data Science innovator** driven by the challenge of turning **complex data into intelligent solutions**.  
-My philosophy is simple: **every line of code should create impact** — measurable, scalable, and meaningful.
+Engineer by craft, analyst by instinct — I design **data-driven systems that automate decisions, optimize outcomes, and scale intelligence.**  
+Every project I build is solution-driven, combining machine learning, automation, and statistical reasoning to deliver measurable business impact.  
 
-I love to:
-- Build **machine learning systems** that make businesses smarter  
-- Design **data pipelines & dashboards** that uncover opportunities  
-- Deploy **AI-powered web apps** that connect models with real users  
-- Automate workflows with **Agentic AI and generative systems**  
-
-⚡ *I don’t just analyze data — I engineer intelligence that drives growth.*  
+💡 *I don’t just analyze data — I architect intelligence.*
 
 ---
 
-## 🚀 What I Do
-- 🤖 **AI & Machine Learning Systems** – Prediction • NLP • Automation  
-- 📊 **Data Analytics & Visualization** – Python • Power BI • Tableau • Excel  
-- 🧠 **Statistical Modeling & SPSS Analytics** – Business insight, forecast, optimization  
-- 💾 **Database Engineering** – MySQL • PostgreSQL • SQLite  
-- ⚙️ **End-to-End Deployment** – From model training to production-ready APIs  
-- 🧩 **Agentic AI & Workflow Automation** – Smarter systems, less manual effort  
+## 💼 Featured Projects
+
+### 🔮 [Loan Prediction Models](https://github.com/PerceptronCipher/loan-prediction-models)
+🎯 **Goal:** Predict loan approvals to support smarter, data-backed credit decisions.  
+⚙️ **Stack:** Python, Scikit-learn, Pandas, Streamlit  
+🚀 **Impact:** Accelerated loan processing and reduced approval bias through predictive analytics.
 
 ---
 
-## 📂 Featured Projects
-
-- 🔮 [**Loan Prediction Models**](https://github.com/PerceptronCipher/loan-prediction-models)  
-   *AI models that predict loan approvals and optimize financial decision-making.*  
-
-- 👥 [**Employee Attrition Prediction**](https://github.com/PerceptronCipher/employee-attrition-prediction)  
-   *Machine learning system that forecasts employee turnover to improve retention.*  
-
-- 🛒 [**Blinkit Sales Analytics**](https://github.com/PerceptronCipher/blinkit-sales-analytics)  
-   *Retail analytics pipeline revealing sales patterns and profitability insights.*  
+### 👥 [Employee Attrition Prediction](https://github.com/PerceptronCipher/employee-attrition-prediction)
+🎯 **Goal:** Identify at-risk employees to enhance retention strategies.  
+⚙️ **Stack:** Python, Scikit-learn, Matplotlib, Power BI  
+🚀 **Impact:** Provided HR teams with explainable insights for proactive engagement.
 
 ---
 
-## 🛠️ Languages & Tools
+### 🛒 [Blinkit Sales Analytics](https://github.com/PerceptronCipher/blinkit-sales-analytics)
+🎯 **Goal:** Analyze sales patterns to uncover revenue trends and optimize store performance.  
+⚙️ **Stack:** Python, SQL, Tableau, Pandas  
+🚀 **Impact:** Boosted profit forecasting accuracy and strategic business planning.
+
+---
+
+## 🔗 Open-Source & Current Work
+Currently contributing to **Scikit-Learn**, **PyCaret**, and **Deepnote Gallery**,  
+focusing on **model explainability**, **ML automation**, and **data-to-decision workflows.**  
+
+*I collaborate where ideas meet execution — building tools that make AI practical.*
+
+---
+
+## 🧠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,git,github" /> <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,vscode,notion" /> <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,streamlit,vscode,notion" /> <br/>
   <img src="https://img.shields.io/badge/SPSS-FF6F00?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-## 🌟 Why Work With Me?
-✔ **Solution-Driven Thinking** – I don’t just build; I solve.  
-✔ **End-to-End Capability** – From raw data to deployed intelligence.  
-✔ **Automation Mindset** – I design systems that save time, cost, and energy.  
-✔ **Communication That Converts** – Turning complex analytics into clear business impact.  
-
-💡 *If you’re looking for someone who blends AI mastery with business strategy — let’s connect.*  
+## 🗺️ Roadmap
+> **2025:** Expanding into Agentic AI & AutoML systems  
+> **2026:** Building intelligent web apps that power real-world decisions  
 
 ---
 
-## 📊 GitHub Insights
+## 🌟 Why Work With Me
+✔ **Solution-Driven** – I focus on results that create business value.  
+✔ **End-to-End Expertise** – From SQL and data wrangling to ML deployment.  
+✔ **Automation Mindset** – I streamline workflows to save time & reduce cost.  
+✔ **Clear Communicator** – I make complex AI concepts understandable and actionable.  
+
+💬 *Let’s transform your data into measurable success.*
+
+---
+
+## 📊 GitHub Insights  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PerceptronCipher&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerceptronCipher&layout=compact&theme=radical" height="165"/>
@@ -73,7 +85,8 @@ I love to:
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect With Me  
+
 <p align="center">
   <a href="https://medium.com/@Adeyemi." target="_blank"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.notion.so/Adeyemi-Boluwatife-2112c317e21c801bac6ac275616a8243" target="_blank"><img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white"/></a>
@@ -87,4 +100,4 @@ I love to:
 
 ---
 
-<p align="center">⚡ "AI is powerful, but intelligence becomes valuable only when it solves a problem." ⚡</p>
+<p align="center">⚡ “Data is the new oil, but insights are the fuel that drives impact.” ⚡</p>
