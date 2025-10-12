@@ -116,6 +116,19 @@ And yes… coffee is basically my coding co-pilot. ☕
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PerceptronCipher&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerceptronCipher&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PerceptronCipher&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 🌐 Connect With Me  
 
 <p align="center">
