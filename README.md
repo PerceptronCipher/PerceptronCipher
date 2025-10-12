@@ -101,7 +101,7 @@ I don’t just analyze data — **I architect intelligence**.
 *Every dataset has a story, and I love turning numbers into narratives that drive decisions.*  
 
 ✨ **Discover interactive dashboards** in my [Notion Dashboard Gallery](https://tinyurl.com/zzzbbaa) — bringing insights to life.  
-🚀 **Step into my AI & Data Showcase** ([link](https://tinyurl.com/Adeyemi-B)) to see how I turn raw data into intelligent, real-world solutions.  
+Step into my [AI & Data Showcase](https://tinyurl.com/Adeyemi-B) to see how I turn raw data into intelligent, real-world solutions.
 🎯 **Witness experiments and challenges** on my [Kaggle profile](https://www.kaggle.com/adeyemmi), where theory meets action.  
 
 > *Explore, interact, and get inspired — this is where AI comes alive.*
