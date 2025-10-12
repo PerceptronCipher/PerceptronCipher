@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Data+Scientist;Automation+%26+Machine+Learning+Specialist;Turning+Data+Into+Intelligence+Since+Day+One" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;Automation+%26+ML+Specialist;Turning+Data+Into+Intelligence+Since+Day+One" alt="Typing SVG">
 </p>
 
 ---
@@ -55,8 +55,8 @@ I don’t just analyze data — **I architect intelligence**.
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,streamlit,vscode,notion" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,git,github,sqlite,vscode" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,streamlit,notion" /><br/>
   <img src="https://skillicons.dev/icons?i=spark,excel,powerbi,tableau" /><br/>
   <img src="https://img.shields.io/badge/SPSS-FF6F00?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
