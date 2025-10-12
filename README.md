@@ -17,7 +17,7 @@
 Engineer by craft, **problem-solver by DNA** — I create **AI-driven systems** that automate decisions, optimize performance, and reveal insights that move businesses forward.  
 I don’t just analyze data — **I architect intelligence**.
 
-💡 *Data isn’t just my skill. It’s my joy and my creative fuel.*
+💡 *Data isn’t just my skill. It’s my joy, my food, and my creative fuel.*
 
 ---
 
@@ -98,16 +98,17 @@ I don’t just analyze data — **I architect intelligence**.
 
 ## 🌍 Explore My Work
 
-*Every dataset has a story, and I love turning numbers into narratives that drive decisions.*  
-
 ✨ **Discover interactive dashboards** in my [Notion Dashboard Gallery](https://tinyurl.com/zzzbbaa) — bringing insights to life.  
 
-🚀 **Step into my AI & Data Showcase** ([link](https://tinyurl.com/Adeyemi-B)) to see how I turn raw data into intelligent, real-world solutions.  
+🚀 **Step into my [AI & Data Showcase](https://tinyurl.com/Adeyemi-B)** to see how I turn raw data into intelligent, real-world solutions.  
 
 🎯 **Witness experiments and challenges** on my [Kaggle profile](https://www.kaggle.com/adeyemmi), where theory meets action.  
 
 > *Explore, interact, and get inspired — this is where AI comes alive.*
-  
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://tinyurl.com/Adeyemi-B" target="_blank"><img src="https://img.shields.io/badge/AI_&_Data_Showcase-000?style=for-the-badge&logo=notion&logoColor=white"/></a>
