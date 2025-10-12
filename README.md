@@ -17,7 +17,7 @@
 Engineer by craft, **problem-solver by DNA** — I create **AI-driven systems** that automate decisions, optimize performance, and reveal insights that move businesses forward.  
 I don’t just analyze data — **I architect intelligence**.
 
-💡 *Data isn’t just my skill. It’s my joy, my food, and my creative fuel.*
+💡 *Data isn’t just my skill. It’s my joy and my creative fuel.*
 
 ---
 
@@ -96,31 +96,22 @@ I don’t just analyze data — **I architect intelligence**.
 
 ---
 
-## 🧭 Dashboards & Portfolios
+## 🌍 Explore My Work
 
-📊 **All Dashboards:** [Notion Dashboard Gallery](https://tinyurl.com/zzzbbaa)  
-🧠 **Main Portfolio:** [AI & Data Projects – Notion](https://tinyurl.com/Adeyemi-B)  
-📈 **Kaggle Profile:** [@Adeyemmi](https://www.kaggle.com/adeyemmi)
+*Every dataset has a story, and I love turning numbers into narratives that drive decisions.*  
 
----
+✨ **Discover interactive dashboards** in my [Notion Dashboard Gallery](https://tinyurl.com/zzzbbaa) — bringing insights to life.  
+🚀 **Step into my AI & Data Showcase** ([link](https://tinyurl.com/Adeyemi-B)) to see how I turn raw data into intelligent, real-world solutions.  
+🎯 **Witness experiments and challenges** on my [Kaggle profile](https://www.kaggle.com/adeyemmi), where theory meets action.  
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PerceptronCipher&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerceptronCipher&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PerceptronCipher&theme=radical"/>
-</p>
+> *Explore, interact, and get inspired — this is where AI comes alive.*
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://tinyurl.com/Adeyemi-B" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://tinyurl.com/Adeyemi-B" target="_blank"><img src="https://img.shields.io/badge/AI_&_Data_Showcase-000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://github.com/PerceptronCipher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.kaggle.com/adeyemmi" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="mailto:adeyemiboluwatife.olayinka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
