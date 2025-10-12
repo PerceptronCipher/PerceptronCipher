@@ -21,6 +21,14 @@ I don’t just analyze data — **I architect intelligence**.
 
 ---
 
+## 🎉 Fun Fact About Me
+
+Besides building AI and analyzing data, I’m an **avid reader** who believes every good book fuels creativity in code.  
+I also have a soft spot for quirky automation experiments — if it can be automated, I’ll find a way!  
+And yes… coffee is basically my coding co-pilot. ☕
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔮 [Loan Prediction & Risk Classification](https://github.com/PerceptronCipher/loan-prediction-models)
