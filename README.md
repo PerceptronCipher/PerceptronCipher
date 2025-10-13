@@ -17,7 +17,7 @@
 Engineer by craft, **problem-solver by DNA** — I create **AI-driven systems** that automate decisions, optimize performance, and reveal insights that move businesses forward.  
 I don’t just analyze data — **I architect intelligence**.
 
-💡 *Data isn’t just my skill. It’s my joy, my food, and my creative fuel.*
+💡 *Data isn’t just my skill. It’s my drive, and my creative fuel.*
 
 ---
 
@@ -31,21 +31,21 @@ And yes, coffee is my quiet co-founder. ☕
 
 ## 🚀 Featured Projects
 
-### [Loan Prediction & Risk Classification](https://github.com/PerceptronCipher/loan-prediction-models)
+### 🔮 [Loan Prediction & Risk Classification](https://github.com/PerceptronCipher/loan-prediction-models)
 **Goal:** Predict loan approvals for smarter, data-backed financial decisions.  
 **Stack:** Python, Scikit-learn, Pandas, Streamlit  
 **Impact:** Accelerated approval processing and reduced bias through predictive analytics.
 
 ---
 
-### [Employee Attrition Prediction](https://github.com/PerceptronCipher/employee-attrition-prediction)
+### 👥 [Employee Attrition Prediction](https://github.com/PerceptronCipher/employee-attrition-prediction)
 **Goal:** Identify at-risk employees to strengthen retention strategies.  
 **Stack:** Python, Scikit-learn, Matplotlib, Power BI  
 **Impact:** Enabled HR teams to act on explainable insights, improving retention outcomes.
 
 ---
 
-### [Blinkit Retail Sales Analytics](https://github.com/PerceptronCipher/blinkit-sales-analytics)
+### 🛒 [Blinkit Retail Sales Analytics](https://github.com/PerceptronCipher/blinkit-sales-analytics)
 **Goal:** Uncover revenue patterns to optimize store strategy.  
 **Stack:** Python, SQL, Tableau, Pandas  
 **Impact:** Boosted profit forecasting and enhanced strategic decision-making.
@@ -104,7 +104,7 @@ Building **AI that works — not just in notebooks, but in the real world.**
 
 ## 🌍 Explore My Work
 
-**Interactive Dashboards:** [Notion Dashboard Gallery](https://tinyurl.com/zzzbbaa) — bringing insights to life.  
+**Interactive Dashboards:** [Dashboard Gallery](https://tinyurl.com/zzzbbaa) — bringing insights to life.  
 
 **AI & Data Showcase:** [Explore My Projects](https://tinyurl.com/Adeyemi-B) — real-world solutions powered by data.  
 
@@ -140,3 +140,5 @@ Building **AI that works — not just in notebooks, but in the real world.**
 ---
 
 <p align="center">"Data is the new oil — but intelligence is the fire that drives innovation."</p>
+
+
