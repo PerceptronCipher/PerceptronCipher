@@ -121,7 +121,8 @@ Building **AI that works — not just in notebooks, but in the real world.**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerceptronCipher&layout=compact&theme=radical" height="165"/>
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PerceptronCipher&theme=react-dark&bg_color=20232a&hide_border=true&line=8b949e&point=f85149)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PerceptronCipher&theme=radical)
+
 ---
 
 ## 🌐 Connect With Me  
