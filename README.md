@@ -122,8 +122,14 @@ Building **AI that works — not just in notebooks, but in the real world.**
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PerceptronCipher&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerceptronCipher&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=PerceptronCipher&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
