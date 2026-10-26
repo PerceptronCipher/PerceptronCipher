@@ -1,6 +1,6 @@
 <!-- 🧠 Neural Glow GitHub Profile - Boluwatife Adeyemi -->
 
-<h1 align="center">⚡ Adeyemi Ibrahim Boluwatife | PerceptronCipher ⚡</h1>
+<h1 align="center">⚡ Adeyemi Boluwatife | PerceptronCipher ⚡</h1>
 <h3 align="center">AI & ML Engineer | Data Scientist | Intelligent Systems Builder</h3>
 <p align="center">"Data is my drive — I build intelligence that powers decisions."</p>
 
